@@ -1,4 +1,8 @@
-# Fitbit Clone NexJS + Tailwind + Typescript
+# Fitbit NexJS + Tailwind + Typescript
+## Tech Stack
+- NextJS (React JS)
+- Tailwind CSS
+- Typescript
 
 DEMO 👉 https://fitbit-seven.vercel.app/
 
