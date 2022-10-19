@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const BrowseSection  => {
+const BrowseSection = () => {
   return (
     <div>BrowseSection</div>
   )
