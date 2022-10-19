@@ -4,6 +4,7 @@ import BrowseSection from "../Components/Sections/BrowseSection/BrowseSection";
 import CardSection from "../Components/Sections/CardSection/CardSection";
 import Newsletter from "../Components/Sections/Newsletter/Newsletter";
 import NumberSection from "../Components/Sections/NumberSection/NumberSection";
+import ProductSection from "../Components/Sections/Productsection/ProductSection";
 import VideoHero from "../Components/Sections/VideoHero/VideoHero";
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
       <BrowseSection />
       <CardSection />
       <NumberSection />
+      <ProductSection/>
       <Blogs/>
       <Newsletter/>
       
