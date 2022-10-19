@@ -1,7 +1,7 @@
 
 const BrandPartners = () => {
   return (
-    <div className="w-full items-center md:flex md:justify-between font-['Manrope'] py-12 md:px-48 ">
+    <div className="w-full items-center md:flex md:justify-between font-['Manrope'] py-12 md:px-60 ">
       <div className="flex justify-center tracking-widest text-xl font-medium">
         OUR BRAND PARTNERS
       </div>

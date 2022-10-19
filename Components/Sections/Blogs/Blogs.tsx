@@ -1,11 +1,11 @@
 const Blogs = () => {
   return (
-    <div className=" mx-5 md:mx-44 gap-10">
+    <div className=" mx-5 md:mx-56 gap-10">
       <h5 className="text-gray-900 text-4xl md:text-6xl font-medium mb-2 text-['Manrope']">
         Our Blogs
       </h5>
       <div className="border-2 md:border-4 w-24 md:w-36 border-buttonblue md:mt-5"></div>
-      <div className=" flex flex-col md:flex-row  items-center justify-center w-full md:gap-96">
+      <div className=" flex flex-col md:flex-row md:justify-between  items-center justify-center w-full ">
         <div className=" text-white md:first-letter w-[350px] h-96 md:w-[599px] bg-center md:h-[599px] mt-10 md:mt-5 bg-[url('https://res.cloudinary.com/dg6y2dtpl/image/upload/v1666201028/fitbit/Rectangle_18_zfpysu.jpg')] p-5 flex items-end">
           <div className="space-y-4">
             <div className="text-4xl  ">How to stay Healthy?</div>

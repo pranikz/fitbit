@@ -1,8 +1,8 @@
 const CardSection = () => {
   return (
-    <div className="flex justify-center font-['Manrope']">
+    <div className="flex justify-center font-['Manrope'] p-10 md:p-0">
       <div className="flex  justify-evenly flex-col md:flex-row w-full rounded-lg bg-white ">
-        <div className="p-6 flex flex-col justify-start">
+        <div className="flex flex-col justify-start">
           <div className="mt-0 md:mt-24 ">
             <h5 className="text-gray-900 text-4xl md:text-6xl font-medium mb-2">
               About Us.
@@ -16,7 +16,7 @@ const CardSection = () => {
           </div>
         </div>
         <img
-          className=" w-full h-96 md:h-[592px]  md:w-[592px] "
+          className=" w-full h-96 md:h-[510px]  md:w-[510px] "
           src="https://res.cloudinary.com/dg6y2dtpl/image/upload/v1666194986/fitbit/Rectangle_8_zg0z5b.jpg"
           alt=""
         />
