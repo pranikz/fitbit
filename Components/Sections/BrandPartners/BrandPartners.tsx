@@ -1,12 +1,12 @@
-import React from "react";
+
 const BrandPartners = () => {
   return (
-    <div className="w-full items-center md:flex md:justify-evenly font-['Manrope'] py-12 ">
-      <div className="flex justify-center racking-widest text-xl font-medium">
+    <div className="w-full items-center md:flex md:justify-between font-['Manrope'] py-12 md:px-48 ">
+      <div className="flex justify-center tracking-widest text-xl font-medium">
         OUR BRAND PARTNERS
       </div>
-      <div className=" flex flex-col  md:flex-row gap-16 mt-6 md:mt-0">
-        <div className="m-auto">
+      <div className=" flex flex-col  md:flex-row gap-24 mt-6 md:mt-0">
+        <div className="mx-auto">
           <svg
             width="108"
             height="40"
@@ -20,7 +20,7 @@ const BrandPartners = () => {
             />
           </svg>
         </div>
-        <div className="m-auto">
+        <div className="mx-auto">
           <svg
             width="69"
             height="40"
@@ -34,7 +34,7 @@ const BrandPartners = () => {
             />
           </svg>
         </div>
-        <div className="m-auto">
+        <div className="mx-auto">
           <svg
             width="50"
             height="40"
@@ -48,7 +48,7 @@ const BrandPartners = () => {
             />
           </svg>
         </div>
-        <div className="m-auto">
+        <div className="mx-auto">
           <svg
             width="70"
             height="40"

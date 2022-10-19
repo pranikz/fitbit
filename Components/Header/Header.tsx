@@ -60,7 +60,7 @@ const Header = () => {
                 navbar ? "block" : "hidden"
               }`}
             >
-              <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0 font-[Manrope] text-base ">
+              <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0 font-[Manrope] text-base  py-2">
                 <li className="text-gray-600 font-bold  hover:text-grayweb">
                   <a href="/">Browse Classes</a>
                 </li>
