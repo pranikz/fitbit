@@ -1,7 +1,8 @@
 # Fitbit Clone NexJS + Tailwind + Typescript
 
 DEMO 👉 https://fitbit-seven.vercel.app/
-[Untitled.webm](https://user-images.githubusercontent.com/44764138/196791027-5c810ef1-96ea-4025-8be3-7507a335b91d.webm)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/44764138/196793450-4d1616d0-bbfe-42ed-8cd4-9ca2f09da4ef.gif)
 
 
 ## Prerequisites
