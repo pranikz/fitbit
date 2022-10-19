@@ -1,27 +1,33 @@
-# Next.js + Tailwind CSS Example
+# Fitbit Clone NexJS + Tailwind + Typescript
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+DEMO 👉 https://fitbit-seven.vercel.app/
+[Untitled.webm](https://user-images.githubusercontent.com/44764138/196791027-5c810ef1-96ea-4025-8be3-7507a335b91d.webm)
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Prerequisites
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+You will need [Node.js](https://nodejs.org) version 8.0 or greater installed on your system.
 
-## How to use
+## Setup
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+Get the code by either cloning this repository using git
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+```
+git clone https://github.com/pranikz/fitbit.git
 ```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+... or [downloading source code](https://github.com/pranikz/fitbit.zip) code as a zip archive.
+
+Once downloaded, open the terminal in the project directory, and install dependencies with:
+
+```
+npm i
 ```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
+Then start the example app with:
+
+```
+npm run dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+The app should now be up and running at http://localhost:3000 🚀
